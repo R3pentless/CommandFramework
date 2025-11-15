@@ -1,6 +1,6 @@
 # CommandFramework
 
-[![](https://jitpack.io/v/R3pentless/commandframework.svg)](https://jitpack.io/#USERNAME/commandframework)
+[![](https://jitpack.io/v/R3pentless/commandframework.svg)](https://jitpack.io/#R3pentless/commandframework)
 
 Easy command framework for Minecraft 1.18.2 plugins.
 
