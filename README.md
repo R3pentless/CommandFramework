@@ -13,7 +13,7 @@ repositories {
 }
 
 dependencies {
-    implementation("com.github.USERNAME:commandframework:1.0.0")
+    implementation("com.github.R3pentless:commandframework:1.0.0")
 }
 ```
 
@@ -24,7 +24,7 @@ repositories {
 }
 
 dependencies {
-    implementation 'com.github.USERNAME:commandframework:1.0.0'
+    implementation 'com.github.R3pentless:commandframework:1.0.0'
 }
 ```
 
@@ -74,7 +74,7 @@ public class MyPlugin extends JavaPlugin {
 
 ## Documentation
 
-See [Wiki](https://github.com/USERNAME/commandframework/wiki) for full documentation.
+See [Wiki](https://github.com/R3pentless/commandframework/wiki) for full documentation.
 
 ## License
 
