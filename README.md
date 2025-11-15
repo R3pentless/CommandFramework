@@ -74,7 +74,8 @@ public class MyPlugin extends JavaPlugin {
 
 ## Documentation
 
-See [Wiki](https://github.com/R3pentless/commandframework/wiki) for full documentation.
+[![Wiki](https://img.shields.io/badge/Wiki-Documentation-blue)](https://github.com/R3pentless/commandframework/wiki)
+[![JitPack](https://jitpack.io/v/R3pentless/commandframework.svg)](https://jitpack.io/#R3pentless/commandframework)
 
 ## License
 
